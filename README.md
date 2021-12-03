@@ -1,0 +1,1 @@
+# Parallelize-a-For-Loop-by-Rewriting-it-as-an-Lapply-Call
